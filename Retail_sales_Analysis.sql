@@ -251,6 +251,6 @@ group by shift;
  *--      After performing data analysis queries i got some points to make business profitable
  *  1.we have more no. of orders in evening 
  *  2.we have to give some offer to the customer who shops regualry from each category
- *  3.....
+ *  3...
  */
  
